@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "schwenker"
+  gem.name = "schwenk_it"
   gem.homepage = "http://github.com/RUGSaar/schwenker"
   gem.license = "MIT"
   gem.summary = %Q{Hauptsach gutt gess. Schwenk my array.}
