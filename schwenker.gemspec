@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/core/array_ext.rb",
     "lib/schwenker.rb",
+    "schwenker.gemspec",
     "test/core/test_array_ext.rb",
     "test/helper.rb"
   ]
